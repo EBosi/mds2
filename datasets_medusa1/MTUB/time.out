@@ -1,0 +1,118 @@
+[06-04 10:52:29] INFO     [92mPhase 0: checking the inputs...
+[0m
+[06-04 10:52:29] INFO     Working directory is [/home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT]...
+[06-04 10:52:29] INFO     [92mInput files found[0m
+[06-04 10:52:29] INFO     Mummer output files will be written in [/home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT]
+
+[06-04 10:52:29] INFO     [92mPhase 1: mapping contigs to reference genome(s)
+[0m
+[06-04 10:52:29] INFO     A total of 13 reference genomes have been found! Mapping the contigs...
+
+
+
+ /$$      /$$               /$$                            /$$$$$$ 
+| $$$    /$$$              | $$                           /$$__  $$
+| $$$$  /$$$$ /$$$$$$  /$$$$$$$/$$   /$$ /$$$$$$$ /$$$$$$|__/  \ $$
+| $$ $$/$$ $$/$$__  $$/$$__  $| $$  | $$/$$_____/|____  $$ /$$$$$$/
+| $$  $$$| $| $$$$$$$| $$  | $| $$  | $|  $$$$$$  /$$$$$$$/$$____/ 
+| $$\  $ | $| $$_____| $$  | $| $$  | $$\____  $$/$$__  $| $$      
+| $$ \/  | $|  $$$$$$|  $$$$$$|  $$$$$$//$$$$$$$|  $$$$$$| $$$$$$$$
+|__/     |__/\_______/\_______/\______/|_______/ \_______|________/
+                                                                   
+
+
+[06-04 10:52:30] INFO     File number 1: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_CTRI_4_uid200045.inp
+[06-04 10:52:30] INFO     running nucmer...
+[06-04 10:52:34] INFO     running show-coords...
+
+[06-04 10:52:34] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_CTRI_4_uid200045.inp!
+[06-04 10:52:34] INFO     File number 2: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_C_uid54359.inp
+[06-04 10:52:34] INFO     running nucmer...
+[06-04 10:52:47] INFO     running show-coords...
+
+[06-04 10:52:47] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_C_uid54359.inp!
+[06-04 10:52:47] INFO     File number 3: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_NCGM2209_uid182048.inp
+[06-04 10:52:47] INFO     running nucmer...
+[06-04 10:53:06] INFO     running show-coords...
+
+[06-04 10:53:06] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_NCGM2209_uid182048.inp!
+[06-04 10:53:06] INFO     File number 4: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_KZN_V2475_uid47491.inp
+[06-04 10:53:06] INFO     running nucmer...
+[06-04 10:53:24] INFO     running show-coords...
+
+[06-04 10:53:24] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_KZN_V2475_uid47491.inp!
+[06-04 10:53:24] INFO     File number 5: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_02_1987_uid55097.inp
+[06-04 10:53:24] INFO     running nucmer...
+[06-04 10:53:30] INFO     running show-coords...
+
+[06-04 10:53:30] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_02_1987_uid55097.inp!
+[06-04 10:53:30] INFO     File number 6: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_94_M4241A_uid55095.inp
+[06-04 10:53:30] INFO     running nucmer...
+[06-04 10:53:39] INFO     running show-coords...
+
+[06-04 10:53:40] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_94_M4241A_uid55095.inp!
+[06-04 10:53:40] INFO     File number 7: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_CDC1551A_uid181532.inp
+[06-04 10:53:40] INFO     running nucmer...
+[06-04 10:53:46] INFO     running show-coords...
+
+[06-04 10:53:46] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_CDC1551A_uid181532.inp!
+[06-04 10:53:46] INFO     File number 8: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_W_148_uid182020.inp
+[06-04 10:53:46] INFO     running nucmer...
+[06-04 10:54:08] INFO     running show-coords...
+
+[06-04 10:54:08] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_W_148_uid182020.inp!
+[06-04 10:54:08] INFO     File number 9: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_T17_uid55273.inp
+[06-04 10:54:08] INFO     running nucmer...
+[06-04 10:54:16] INFO     running show-coords...
+
+[06-04 10:54:16] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_T17_uid55273.inp!
+[06-04 10:54:16] INFO     File number 10: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_SUMu010_uid51945.inp
+[06-04 10:54:16] INFO     running nucmer...
+[06-04 10:54:23] INFO     running show-coords...
+
+[06-04 10:54:23] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_SUMu010_uid51945.inp!
+[06-04 10:54:23] INFO     File number 11: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_H37Ra_uid54595.inp
+[06-04 10:54:23] INFO     running nucmer...
+[06-04 10:54:27] INFO     running show-coords...
+
+[06-04 10:54:27] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_H37Ra_uid54595.inp!
+[06-04 10:54:27] INFO     File number 12: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_KZN_4207_uid47493.inp
+[06-04 10:54:27] INFO     running nucmer...
+[06-04 10:54:48] INFO     running show-coords...
+
+[06-04 10:54:48] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis_KZN_4207_uid47493.inp!
+[06-04 10:54:48] INFO     File number 13: /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis__98_R604_INH_RIF_EM__uid55399.inp
+[06-04 10:54:48] INFO     running nucmer...
+[06-04 10:54:55] INFO     running show-coords...
+
+[06-04 10:54:55] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/MTUB/reference_genomes/Mycobacterium_tuberculosis__98_R604_INH_RIF_EM__uid55399.inp!
+[06-04 10:54:55] INFO     [92mPhase 2: parse mummer output(s) and create a scaffolding graph[0m
+[06-04 10:54:55] WARNING  [33mThis step is very time-consuming...[0m
+[06-04 10:54:56] INFO     Instanciating scaffolding network for [/home/eb/projects/medusa2/datasets_medusa1/MTUB/Mtub_target.fna] ...
+[06-04 10:54:56] INFO     [92mSuccess! A total of 116 nodes have been included[0m
+[06-04 10:54:56] INFO     A total of 13 .coords files have been found! Adding network edges...
+
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_CTRI_4_uid200045.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_C_uid54359.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_NCGM2209_uid182048.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_KZN_V2475_uid47491.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_02_1987_uid55097.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_94_M4241A_uid55095.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_CDC1551A_uid181532.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_W_148_uid182020.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_T17_uid55273.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_SUMu010_uid51945.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_H37Ra_uid54595.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis_KZN_4207_uid47493.coords[0m
+[06-04 10:54:56] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/Mtub_target_Mycobacterium_tuberculosis__98_R604_INH_RIF_EM__uid55399.coords[0m
+[06-04 10:54:56] INFO     adjusting orientations...
+[06-04 10:54:57] INFO     [92mPhase 3: from network to scaffolds
+[0m
+[06-04 10:54:57] INFO     [92mComputing a greedy path cover...[0m
+
+[06-04 10:54:57] INFO     [92mOptional: producing output graphs[0m
+[06-04 10:54:57] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/scaffolding_graph.gexf
+[06-04 10:54:57] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/cover_graph.gexf
+[06-04 10:54:57] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/MTUB/medusa_2_OUT/cleaned_cover_graph.gexf
+184.57user 5.36system 2:37.02elapsed 120%CPU (0avgtext+0avgdata 559324maxresident)k
+199592inputs+41088outputs (136major+1465291minor)pagefaults 0swaps

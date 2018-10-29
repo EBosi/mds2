@@ -1,0 +1,10 @@
+Target genome: datasets_medusa1/SAUR/Saureus_target.fna
+
+--------------SCAFFOLDS---------------
+
+Number of scaffolds: 16 (singletons = 9, multi-contig scaffold = 7) 
+from 170 initial fragments.
+Total length of the jointed fragments: 2830037
+Computing N50 on 16 sequences.
+N50: 1659421.0
+----------------------

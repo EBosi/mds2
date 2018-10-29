@@ -1,0 +1,64 @@
+[06-04 10:55:09] INFO     [92mPhase 0: checking the inputs...
+[0m
+[06-04 10:55:09] INFO     Working directory is [/home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT]...
+[06-04 10:55:09] INFO     [92mInput files found[0m
+[06-04 10:55:09] INFO     Mummer output files will be written in [/home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT]
+
+[06-04 10:55:09] INFO     [92mPhase 1: mapping contigs to reference genome(s)
+[0m
+[06-04 10:55:09] INFO     A total of 4 reference genomes have been found! Mapping the contigs...
+
+
+
+ /$$      /$$               /$$                            /$$$$$$ 
+| $$$    /$$$              | $$                           /$$__  $$
+| $$$$  /$$$$ /$$$$$$  /$$$$$$$/$$   /$$ /$$$$$$$ /$$$$$$|__/  \ $$
+| $$ $$/$$ $$/$$__  $$/$$__  $| $$  | $$/$$_____/|____  $$ /$$$$$$/
+| $$  $$$| $| $$$$$$$| $$  | $| $$  | $|  $$$$$$  /$$$$$$$/$$____/ 
+| $$\  $ | $| $$_____| $$  | $| $$  | $$\____  $$/$$__  $| $$      
+| $$ \/  | $|  $$$$$$|  $$$$$$|  $$$$$$//$$$$$$$|  $$$$$$| $$$$$$$$
+|__/     |__/\_______/\_______/\______/|_______/ \_______|________/
+                                                                   
+
+
+[06-04 10:55:09] INFO     File number 1: /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_BC7_uid188101.fna.inp
+[06-04 10:55:09] INFO     running nucmer...
+[06-04 10:55:18] INFO     running show-coords...
+
+[06-04 10:55:18] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_BC7_uid188101.fna.inp!
+[06-04 10:55:18] INFO     File number 2: /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_H111_uid180971.fna.inp
+[06-04 10:55:18] INFO     running nucmer...
+[06-04 10:55:31] INFO     running show-coords...
+
+[06-04 10:55:31] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_H111_uid180971.fna.inp!
+[06-04 10:55:31] INFO     File number 3: /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_K56_2Valvano_uid188102.fna.inp
+[06-04 10:55:31] INFO     running nucmer...
+[06-04 10:55:37] INFO     running show-coords...
+
+[06-04 10:55:37] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_K56_2Valvano_uid188102.fna.inp!
+[06-04 10:55:37] INFO     File number 4: /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_PC184_uid54353.fna.inp
+[06-04 10:55:37] INFO     running nucmer...
+[06-04 10:56:30] INFO     running show-coords...
+
+[06-04 10:56:30] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/BCEN/reference_genomes/Burkholderia_cenocepacia_PC184_uid54353.fna.inp!
+[06-04 10:56:30] INFO     [92mPhase 2: parse mummer output(s) and create a scaffolding graph[0m
+[06-04 10:56:30] WARNING  [33mThis step is very time-consuming...[0m
+[06-04 10:56:30] INFO     Instanciating scaffolding network for [/home/eb/projects/medusa2/datasets_medusa1/BCEN/Burkholderia_target.fna] ...
+[06-04 10:56:30] INFO     [92mSuccess! A total of 1223 nodes have been included[0m
+[06-04 10:56:30] INFO     A total of 4 .coords files have been found! Adding network edges...
+
+[06-04 10:56:30] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/Burkholderia_target_Burkholderia_cenocepacia_BC7_uid188101.coords[0m
+[06-04 10:56:30] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/Burkholderia_target_Burkholderia_cenocepacia_H111_uid180971.coords[0m
+[06-04 10:56:30] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/Burkholderia_target_Burkholderia_cenocepacia_K56_2Valvano_uid188102.coords[0m
+[06-04 10:56:30] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/Burkholderia_target_Burkholderia_cenocepacia_PC184_uid54353.coords[0m
+[06-04 10:56:30] INFO     adjusting orientations...
+[06-04 10:56:31] INFO     [92mPhase 3: from network to scaffolds
+[0m
+[06-04 10:56:31] INFO     [92mComputing a greedy path cover...[0m
+
+[06-04 10:56:31] INFO     [92mOptional: producing output graphs[0m
+[06-04 10:56:31] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/scaffolding_graph.gexf
+[06-04 10:56:32] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/cover_graph.gexf
+[06-04 10:56:33] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/BCEN/medusa_2_OUT/cleaned_cover_graph.gexf
+147.77user 3.98system 1:35.86elapsed 158%CPU (0avgtext+0avgdata 1066020maxresident)k
+164544inputs+63504outputs (149major+860284minor)pagefaults 0swaps

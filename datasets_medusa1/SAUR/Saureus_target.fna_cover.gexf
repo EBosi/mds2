@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gexf.net/1.1draft">
+  <graph>
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="distance" type="integer"/>
+      <attribute id="2" title="orientation_max" type="string"/>
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="orientation" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="NC01007914426300862632969" label="NC01007914426300862632969">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910419297101937554" label="NC01007910419297101937554">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911720411352088150" label="NC01007911720411352088150">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911820881622111655" label="NC01007911820881622111655">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007960811490842892" label="NC01007960811490842892">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC010063126971321" label="gi161510924refNC010063126971321">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007919112864169912" label="NC01007919112864169912">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007941467871469573" label="NC01007941467871469573">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007944475352558" label="NC01007944475352558">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911119620361994265" label="NC01007911119620361994265">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910219179931918455" label="NC01007910219179931918455">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007932450693452993" label="NC01007932450693452993">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007922313070318691" label="NC01007922313070318691">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911921118122112036" label="NC01007911921118122112036">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631315811932" label="gi161510924refNC0100631315811932">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915026813982699162" label="NC01007915026813982699162">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC010079106856976180" label="NC010079106856976180">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912021121332114005" label="NC01007912021121332114005">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007955663027671552" label="NC01007955663027671552">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913725400302555303" label="NC01007913725400302555303">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007921302947313015" label="NC01007921302947313015">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007936463697464450" label="NC01007936463697464450">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007949562200562604" label="NC01007949562200562604">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910319184261929673" label="NC01007910319184261929673">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799216084341695051" label="NC0100799216084341695051">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="gi225631039refNC0124171420572956" label="gi225631039refNC0124171420572956">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi225631039refNC012417111792" label="gi225631039refNC012417111792">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631111708820366" label="gi161510924refNC0100631111708820366">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797713457811426492" label="NC0100797713457811426492">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914526332852633502" label="NC01007914526332852633502">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914926799822681469" label="NC01007914926799822681469">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631636504307" label="gi161510924refNC0100631636504307">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797211686041172457" label="NC0100797211686041172457">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915110831111033" label="NC01007915110831111033">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007935459560463634" label="NC01007935459560463634">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912622552722265152" label="NC01007912622552722265152">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC010063191321116357" label="gi161510924refNC010063191321116357">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007986616767374" label="NC01007986616767374">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007976583566255" label="NC01007976583566255">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799418040821804306" label="NC0100799418040821804306">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC01006317440412480" label="gi161510924refNC01006317440412480">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910519375041938926" label="NC01007910519375041938926">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007954657811663009" label="NC01007954657811663009">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007918112487112722" label="NC01007918112487112722">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915227752542807722" label="NC01007915227752542807722">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797814270951442846" label="NC0100797814270951442846">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910819400561941272" label="NC01007910819400561941272">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007939466279466552" label="NC01007939466279466552">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911620318542041019" label="NC01007911620318542041019">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100791124199" label="NC0100791124199">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914226241382624508" label="NC01007914226241382624508">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007938464821466245" label="NC01007938464821466245">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007933453057457792" label="NC01007933453057457792">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912221217092145566" label="NC01007912221217092145566">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799518050461857837" label="NC0100799518050461857837">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911219982782001403" label="NC01007911219982782001403">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007940467123467784" label="NC01007940467123467784">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007953622695657615" label="NC01007953622695657615">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799618579321873596" label="NC0100799618579321873596">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914826651092680011" label="NC01007914826651092680011">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799016025851608200" label="NC0100799016025851608200">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914626335032633746" label="NC01007914626335032633746">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007928349540351123" label="NC01007928349540351123">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914326249062629330" label="NC01007914326249062629330">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007961843031848219" label="NC01007961843031848219">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007958801094801879" label="NC01007958801094801879">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007931449196450468" label="NC01007931449196450468">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913022978022317762" label="NC01007913022978022317762">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798615921211593081" label="NC0100798615921211593081">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007943470299471022" label="NC01007943470299471022">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910719397051940055" label="NC01007910719397051940055">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100791397517110158" label="NC0100791397517110158">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798415625381586137" label="NC0100798415625381586137">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798815940291600417" label="NC0100798815940291600417">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007962848665855658" label="NC01007962848665855658">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631419122260" label="gi161510924refNC0100631419122260">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910019109321911247" label="NC01007910019109321911247">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007916111104111423" label="NC01007916111104111423">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007946518313518642" label="NC01007946518313518642">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631122110125919" label="gi161510924refNC0100631122110125919">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799316951861803069" label="NC0100799316951861803069">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007937464512464815" label="NC01007937464512464815">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC010063181264612883" label="gi161510924refNC010063181264612883">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007917111891112328" label="NC01007917111891112328">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915328077992830327" label="NC01007915328077992830327">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007956671762704923" label="NC01007956671762704923">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007950562511613901" label="NC01007950562511613901">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912321456452176314" label="NC01007912321456452176314">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007959801996811322" label="NC01007959801996811322">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910919418001956434" label="NC01007910919418001956434">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007925344824347355" label="NC01007925344824347355">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007947518549556117" label="NC01007947518549556117">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910119124791917795" label="NC01007910119124791917795">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="gi225631039refNC0124171314131972" label="gi225631039refNC0124171314131972">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914110273110552" label="NC01007914110273110552">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912722652122292093" label="NC01007912722652122292093">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007944470995471237" label="NC01007944470995471237">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007923319234344202" label="NC01007923319234344202">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007966906303954480" label="NC01007966906303954480">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913123185802318917" label="NC01007913123185802318917">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007996734568655" label="NC01007996734568655">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC010063111669" label="gi161510924refNC010063111669">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798916005471602526" label="NC0100798916005471602526">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798315589291562537" label="NC0100798315589291562537">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914126137792624138" label="NC01007914126137792624138">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007951614412617850" label="NC01007951614412617850">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913625050142539931" label="NC01007913625050142539931">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797311725161341821" label="NC0100797311725161341821">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913825553482580492" label="NC01007913825553482580492">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911019564371961510" label="NC01007911019564371961510">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911420034952030151" label="NC01007911420034952030151">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007957705100800924" label="NC01007957705100800924">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799116082051608433" label="NC0100799116082051608433">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007934457607459476" label="NC01007934457607459476">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007948556464558705" label="NC01007948556464558705">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007963855853875017" label="NC01007963855853875017">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100796910718601072163" label="NC0100796910718601072163">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007930394993449333" label="NC01007930394993449333">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007966235165760" label="NC01007966235165760">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007920170616302935" label="NC01007920170616302935">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915528669292872915" label="NC01007915528669292872915">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799718740211892736" label="NC0100799718740211892736">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798014577401472992" label="NC0100798014577401472992">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797010723031098262" label="NC0100797010723031098262">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915428305152866799" label="NC01007915428305152866799">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913424321152478335" label="NC01007913424321152478335">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797110982621168560" label="NC0100797110982621168560">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799918992621910701" label="NC0100799918992621910701">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="gi225631039refNC0124171210521347" label="gi225631039refNC0124171210521347">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631132589827041" label="gi161510924refNC0100631132589827041">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912421816512247850" label="NC01007912421816512247850">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007965892015906332" label="NC01007965892015906332">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914726338262664853" label="NC01007914726338262664853">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100796810364951071863" label="NC0100796810364951071863">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007911520302412031591" label="NC01007911520302412031591">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912121140112121708" label="NC01007912121140112121708">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007945471239512707" label="NC01007945471239512707">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797413418281342913" label="NC0100797413418281342913">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC010079679547191036472" label="NC010079679547191036472">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007942469627469858" label="NC01007942469627469858">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798215585021558958" label="NC0100798215585021558958">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797513428841344341" label="NC0100797513428841344341">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912522479652254688" label="NC01007912522479652254688">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007924344391344731" label="NC01007924344391344731">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913524790662504831" label="NC01007913524790662504831">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007915126993342774915" label="NC01007915126993342774915">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC010079117691891494" label="NC010079117691891494">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC010079129146597380" label="NC010079129146597380">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913223194012389029" label="NC01007913223194012389029">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100799818934721899203" label="NC0100799818934721899203">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798715930961594023" label="NC0100798715930961594023">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="gi161510924refNC0100631523433493" label="gi161510924refNC0100631523433493">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913925807302610214" label="NC01007913925807302610214">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007929351561394815" label="NC01007929351561394815">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007914026102252613681" label="NC01007914026102252613681">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798114731471558163" label="NC0100798114731471558163">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912922958882297830" label="NC01007912922958882297830">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007964875484891649" label="NC01007964875484891649">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797613442631345778" label="NC0100797613442631345778">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007913323892402431693" label="NC01007913323892402431693">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100797914437611456887" label="NC0100797914437611456887">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC0100798515860941592190" label="NC0100798515860941592190">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007952618914621945" label="NC01007952618914621945">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007922433335846" label="NC01007922433335846">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007933661344602" label="NC01007933661344602">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007955292961721" label="NC01007955292961721">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007912822927582297787" label="NC01007912822927582297787">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007910619391911939704" label="NC01007910619391911939704">
+        <attvalues>
+          <attvalue for="0" value="-1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007927348553349398" label="NC01007927348553349398">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="NC01007926348064348375" label="NC01007926348064348375">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="57" source="NC01007932450693452993" target="NC01007933453057457792">
+        <attvalues>
+          <attvalue for="2" value="NC01007932450693452993:1_NC01007933453057457792:1"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="NC01007913725400302555303" target="NC01007913825553482580492">
+        <attvalues>
+          <attvalue for="2" value="NC01007913725400302555303:1_NC01007913825553482580492:1"/>
+        </attvalues>
+      </edge>
+      <edge id="358" source="NC01007912421816512247850" target="NC01007912522479652254688">
+        <attvalues>
+          <attvalue for="2" value="NC01007912421816512247850:1_NC01007912522479652254688:1"/>
+        </attvalues>
+      </edge>
+      <edge id="163" source="NC01007915227752542807722" target="NC01007915328077992830327">
+        <attvalues>
+          <attvalue for="2" value="NC01007915227752542807722:1_NC01007915328077992830327:1"/>
+        </attvalues>
+      </edge>
+      <edge id="346" source="NC0100796910718601072163" target="NC0100797010723031098262">
+        <attvalues>
+          <attvalue for="2" value="NC0100796910718601072163:1_NC0100797010723031098262:1"/>
+        </attvalues>
+      </edge>
+      <edge id="178" source="NC0100791124199" target="NC01007922433335846">
+        <attvalues>
+          <attvalue for="2" value="NC0100791124199:1_NC01007922433335846:1"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="NC01007949562200562604" target="NC01007950562511613901">
+        <attvalues>
+          <attvalue for="2" value="NC01007949562200562604:1_NC01007950562511613901:1"/>
+        </attvalues>
+      </edge>
+      <edge id="356" source="NC0100799918992621910701" target="NC0100799818934721899203">
+        <attvalues>
+          <attvalue for="2" value="NC0100799918992621910701:-1_NC0100799818934721899203:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="331" source="NC01007913825553482580492" target="NC01007913925807302610214">
+        <attvalues>
+          <attvalue for="2" value="NC01007913825553482580492:1_NC01007913925807302610214:1"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="NC01007912622552722265152" target="NC01007912722652122292093">
+        <attvalues>
+          <attvalue for="2" value="NC01007912622552722265152:1_NC01007912722652122292093:1"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="NC01007922313070318691" target="NC01007923319234344202">
+        <attvalues>
+          <attvalue for="2" value="NC01007922313070318691:1_NC01007923319234344202:1"/>
+        </attvalues>
+      </edge>
+      <edge id="216" source="NC01007928349540351123" target="NC01007929351561394815">
+        <attvalues>
+          <attvalue for="2" value="NC01007928349540351123:1_NC01007929351561394815:1"/>
+        </attvalues>
+      </edge>
+      <edge id="269" source="NC01007946518313518642" target="NC01007947518549556117">
+        <attvalues>
+          <attvalue for="2" value="NC01007946518313518642:1_NC01007947518549556117:1"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="NC01007911720411352088150" target="NC01007911620318542041019">
+        <attvalues>
+          <attvalue for="2" value="NC01007911720411352088150:-1_NC01007911620318542041019:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="NC01007910319184261929673" target="NC01007910119124791917795">
+        <attvalues>
+          <attvalue for="2" value="NC01007910319184261929673:-1_NC01007910119124791917795:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="NC01007910419297101937554" target="NC01007910319184261929673">
+        <attvalues>
+          <attvalue for="2" value="NC01007910419297101937554:-1_NC01007910319184261929673:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="279" source="NC01007915328077992830327" target="NC01007915428305152866799">
+        <attvalues>
+          <attvalue for="2" value="NC01007915328077992830327:1_NC01007915428305152866799:1"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="NC01007960811490842892" target="NC01007961843031848219">
+        <attvalues>
+          <attvalue for="2" value="NC01007960811490842892:1_NC01007961843031848219:1"/>
+        </attvalues>
+      </edge>
+      <edge id="165" source="NC0100797814270951442846" target="NC0100797914437611456887">
+        <attvalues>
+          <attvalue for="2" value="NC0100797814270951442846:1_NC0100797914437611456887:1"/>
+        </attvalues>
+      </edge>
+      <edge id="176" source="NC01007911620318542041019" target="NC01007911520302412031591">
+        <attvalues>
+          <attvalue for="2" value="NC01007911620318542041019:-1_NC01007911520302412031591:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="377" source="NC01007913223194012389029" target="NC01007913323892402431693">
+        <attvalues>
+          <attvalue for="2" value="NC01007913223194012389029:1_NC01007913323892402431693:1"/>
+        </attvalues>
+      </edge>
+      <edge id="330" source="NC0100797311725161341821" target="NC0100797413418281342913">
+        <attvalues>
+          <attvalue for="2" value="NC0100797311725161341821:1_NC0100797413418281342913:1"/>
+        </attvalues>
+      </edge>
+      <edge id="254" source="NC01007962848665855658" target="NC01007963855853875017">
+        <attvalues>
+          <attvalue for="2" value="NC01007962848665855658:1_NC01007963855853875017:1"/>
+        </attvalues>
+      </edge>
+      <edge id="237" source="NC01007910719397051940055" target="NC01007910619391911939704">
+        <attvalues>
+          <attvalue for="2" value="NC01007910719397051940055:-1_NC01007910619391911939704:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="380" source="NC01007913925807302610214" target="NC01007914026102252613681">
+        <attvalues>
+          <attvalue for="2" value="NC01007913925807302610214:1_NC01007914026102252613681:1"/>
+        </attvalues>
+      </edge>
+      <edge id="369" source="NC01007924344391344731" target="NC01007927348553349398">
+        <attvalues>
+          <attvalue for="2" value="NC01007924344391344731:1_NC01007927348553349398:1"/>
+        </attvalues>
+      </edge>
+      <edge id="354" source="NC01007913424321152478335" target="NC01007913524790662504831">
+        <attvalues>
+          <attvalue for="2" value="NC01007913424321152478335:1_NC01007913524790662504831:1"/>
+        </attvalues>
+      </edge>
+      <edge id="223" source="NC01007958801094801879" target="NC01007959801996811322">
+        <attvalues>
+          <attvalue for="2" value="NC01007958801094801879:1_NC01007959801996811322:1"/>
+        </attvalues>
+      </edge>
+      <edge id="374" source="NC010079117691891494" target="NC010079129146597380">
+        <attvalues>
+          <attvalue for="2" value="NC010079117691891494:1_NC010079129146597380:1"/>
+        </attvalues>
+      </edge>
+      <edge id="243" source="NC0100791397517110158" target="NC01007914110273110552">
+        <attvalues>
+          <attvalue for="2" value="NC0100791397517110158:1_NC01007914110273110552:1"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="NC01007914526332852633502" target="NC01007914626335032633746">
+        <attvalues>
+          <attvalue for="2" value="NC01007914526332852633502:1_NC01007914626335032633746:1"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="NC01007955663027671552" target="NC01007956671762704923">
+        <attvalues>
+          <attvalue for="2" value="NC01007955663027671552:1_NC01007956671762704923:1"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="NC01007941467871469573" target="NC01007944470995471237">
+        <attvalues>
+          <attvalue for="2" value="NC01007941467871469573:1_NC01007944470995471237:1"/>
+        </attvalues>
+      </edge>
+      <edge id="307" source="NC01007966906303954480" target="NC010079679547191036472">
+        <attvalues>
+          <attvalue for="2" value="NC01007966906303954480:1_NC010079679547191036472:1"/>
+        </attvalues>
+      </edge>
+      <edge id="195" source="NC0100799518050461857837" target="NC0100799316951861803069">
+        <attvalues>
+          <attvalue for="2" value="NC0100799518050461857837:-1_NC0100799316951861803069:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="189" source="NC01007912221217092145566" target="NC01007912321456452176314">
+        <attvalues>
+          <attvalue for="2" value="NC01007912221217092145566:1_NC01007912321456452176314:1"/>
+        </attvalues>
+      </edge>
+      <edge id="352" source="NC0100797010723031098262" target="NC0100797110982621168560">
+        <attvalues>
+          <attvalue for="2" value="NC0100797010723031098262:1_NC0100797110982621168560:1"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="NC01007915026813982699162" target="NC01007915126993342774915">
+        <attvalues>
+          <attvalue for="2" value="NC01007915026813982699162:1_NC01007915126993342774915:1"/>
+        </attvalues>
+      </edge>
+      <edge id="365" source="NC0100797413418281342913" target="NC0100797613442631345778">
+        <attvalues>
+          <attvalue for="2" value="NC0100797413418281342913:1_NC0100797613442631345778:1"/>
+        </attvalues>
+      </edge>
+      <edge id="245" source="NC0100798415625381586137" target="NC0100798515860941592190">
+        <attvalues>
+          <attvalue for="2" value="NC0100798415625381586137:1_NC0100798515860941592190:1"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="NC0100797211686041172457" target="NC0100797311725161341821">
+        <attvalues>
+          <attvalue for="2" value="NC0100797211686041172457:1_NC0100797311725161341821:1"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="NC01007936463697464450" target="NC01007937464512464815">
+        <attvalues>
+          <attvalue for="2" value="NC01007936463697464450:1_NC01007937464512464815:1"/>
+        </attvalues>
+      </edge>
+      <edge id="306" source="NC01007923319234344202" target="NC01007924344391344731">
+        <attvalues>
+          <attvalue for="2" value="NC01007923319234344202:1_NC01007924344391344731:1"/>
+        </attvalues>
+      </edge>
+      <edge id="222" source="NC01007961843031848219" target="NC01007962848665855658">
+        <attvalues>
+          <attvalue for="2" value="NC01007961843031848219:1_NC01007962848665855658:1"/>
+        </attvalues>
+      </edge>
+      <edge id="200" source="NC01007940467123467784" target="NC01007943470299471022">
+        <attvalues>
+          <attvalue for="2" value="NC01007940467123467784:1_NC01007943470299471022:1"/>
+        </attvalues>
+      </edge>
+      <edge id="182" source="NC01007938464821466245" target="NC01007942469627469858">
+        <attvalues>
+          <attvalue for="2" value="NC01007938464821466245:1_NC01007942469627469858:1"/>
+        </attvalues>
+      </edge>
+      <edge id="169" source="NC01007910819400561941272" target="NC01007910719397051940055">
+        <attvalues>
+          <attvalue for="2" value="NC01007910819400561941272:-1_NC01007910719397051940055:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="NC01007911119620361994265" target="NC01007911019564371961510">
+        <attvalues>
+          <attvalue for="2" value="NC01007911119620361994265:-1_NC01007911019564371961510:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="350" source="NC0100798014577401472992" target="NC0100798114731471558163">
+        <attvalues>
+          <attvalue for="2" value="NC0100798014577401472992:1_NC0100798114731471558163:1"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="NC01007919112864169912" target="NC01007920170616302935">
+        <attvalues>
+          <attvalue for="2" value="NC01007919112864169912:1_NC01007920170616302935:1"/>
+        </attvalues>
+      </edge>
+      <edge id="288" source="NC01007950562511613901" target="NC01007951614412617850">
+        <attvalues>
+          <attvalue for="2" value="NC01007950562511613901:1_NC01007951614412617850:1"/>
+        </attvalues>
+      </edge>
+      <edge id="226" source="NC01007913022978022317762" target="NC01007913223194012389029">
+        <attvalues>
+          <attvalue for="2" value="NC01007913022978022317762:1_NC01007913223194012389029:1"/>
+        </attvalues>
+      </edge>
+      <edge id="175" source="NC01007939466279466552" target="NC01007945471239512707">
+        <attvalues>
+          <attvalue for="2" value="NC01007939466279466552:1_NC01007945471239512707:1"/>
+        </attvalues>
+      </edge>
+      <edge id="211" source="NC0100799016025851608200" target="NC0100798916005471602526">
+        <attvalues>
+          <attvalue for="2" value="NC0100799016025851608200:-1_NC0100798916005471602526:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="NC01007915110831111033" target="NC01007917111891112328">
+        <attvalues>
+          <attvalue for="2" value="NC01007915110831111033:1_NC01007917111891112328:1"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="NC0100797713457811426492" target="NC0100797814270951442846">
+        <attvalues>
+          <attvalue for="2" value="NC0100797713457811426492:1_NC0100797814270951442846:1"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="NC010079106856976180" target="NC01007966235165760">
+        <attvalues>
+          <attvalue for="2" value="NC010079106856976180:-1_NC01007966235165760:1"/>
+        </attvalues>
+      </edge>
+      <edge id="301" source="NC01007910119124791917795" target="NC01007913123185802318917">
+        <attvalues>
+          <attvalue for="2" value="NC01007910119124791917795:-1_NC01007913123185802318917:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="188" source="NC01007933453057457792" target="NC01007934457607459476">
+        <attvalues>
+          <attvalue for="2" value="NC01007933453057457792:1_NC01007934457607459476:1"/>
+        </attvalues>
+      </edge>
+      <edge id="181" source="NC01007914226241382624508" target="NC01007914326249062629330">
+        <attvalues>
+          <attvalue for="2" value="NC01007914226241382624508:1_NC01007914326249062629330:1"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="NC01007944475352558" target="NC010079106856976180">
+        <attvalues>
+          <attvalue for="2" value="NC01007944475352558:1_NC010079106856976180:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="315" source="NC01007996734568655" target="NC010079117691891494">
+        <attvalues>
+          <attvalue for="2" value="NC01007996734568655:-1_NC010079117691891494:1"/>
+        </attvalues>
+      </edge>
+      <edge id="259" source="NC01007910019109321911247" target="NC0100799918992621910701">
+        <attvalues>
+          <attvalue for="2" value="NC01007910019109321911247:-1_NC0100799918992621910701:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="gi161510924refNC01006317440412480" target="gi161510924refNC0100631122110125919">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC01006317440412480:1_gi161510924refNC0100631122110125919:1__gi161510924refNC01006317440412480:-1_gi161510924refNC0100631122110125919:1"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="NC01007914426300862632969" target="NC01007914726338262664853">
+        <attvalues>
+          <attvalue for="2" value="NC01007914426300862632969:1_NC01007914726338262664853:1"/>
+        </attvalues>
+      </edge>
+      <edge id="342" source="NC01007963855853875017" target="NC01007964875484891649">
+        <attvalues>
+          <attvalue for="2" value="NC01007963855853875017:1_NC01007964875484891649:1"/>
+        </attvalues>
+      </edge>
+      <edge id="327" source="NC01007951614412617850" target="NC01007952618914621945">
+        <attvalues>
+          <attvalue for="2" value="NC01007951614412617850:1_NC01007952618914621945:1"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="gi161510924refNC010063126971321" target="gi161510924refNC0100631315811932">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC010063126971321:1_gi161510924refNC0100631315811932:1"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="gi161510924refNC0100631315811932" target="gi225631039refNC0124171210521347">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC0100631315811932:1_gi225631039refNC0124171210521347:1"/>
+        </attvalues>
+      </edge>
+      <edge id="252" source="NC0100798815940291600417" target="NC01007912121140112121708">
+        <attvalues>
+          <attvalue for="2" value="NC0100798815940291600417:-1_NC01007912121140112121708:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="272" source="gi161510924refNC0100631122110125919" target="gi161510924refNC0100631132589827041">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC0100631122110125919:1_gi161510924refNC0100631132589827041:1"/>
+        </attvalues>
+      </edge>
+      <edge id="284" source="NC01007956671762704923" target="NC01007957705100800924">
+        <attvalues>
+          <attvalue for="2" value="NC01007956671762704923:1_NC01007957705100800924:1"/>
+        </attvalues>
+      </edge>
+      <edge id="275" source="gi161510924refNC010063181264612883" target="NC01007933661344602">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC010063181264612883:-1_NC01007933661344602:1"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="gi161510924refNC0100631636504307" target="gi161510924refNC01006317440412480">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC0100631636504307:1_gi161510924refNC01006317440412480:1"/>
+        </attvalues>
+      </edge>
+      <edge id="341" source="NC01007948556464558705" target="NC01007912822927582297787">
+        <attvalues>
+          <attvalue for="2" value="NC01007948556464558705:1_NC01007912822927582297787:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="256" source="gi161510924refNC0100631419122260" target="gi161510924refNC0100631523433493">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC0100631419122260:1_gi161510924refNC0100631523433493:1"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="NC01007911921118122112036" target="NC0100798715930961594023">
+        <attvalues>
+          <attvalue for="2" value="NC01007911921118122112036:1_NC0100798715930961594023:1"/>
+        </attvalues>
+      </edge>
+      <edge id="333" source="NC01007911420034952030151" target="NC01007912922958882297830">
+        <attvalues>
+          <attvalue for="2" value="NC01007911420034952030151:-1_NC01007912922958882297830:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="291" source="NC01007912321456452176314" target="NC01007912421816512247850">
+        <attvalues>
+          <attvalue for="2" value="NC01007912321456452176314:1_NC01007912421816512247850:1"/>
+        </attvalues>
+      </edge>
+      <edge id="300" source="NC01007947518549556117" target="NC01007948556464558705">
+        <attvalues>
+          <attvalue for="2" value="NC01007947518549556117:1_NC01007948556464558705:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007952618914621945-NC01007953622695657615" source="NC01007952618914621945" target="NC01007953622695657615">
+        <attvalues>
+          <attvalue for="2" value="NC01007952618914621945:1_NC01007953622695657615:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007953622695657615-NC01007954657811663009" source="NC01007953622695657615" target="NC01007954657811663009">
+        <attvalues>
+          <attvalue for="2" value="NC01007953622695657615:1_NC01007954657811663009:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007954657811663009-NC01007955663027671552" source="NC01007954657811663009" target="NC01007955663027671552">
+        <attvalues>
+          <attvalue for="2" value="NC01007954657811663009:1_NC01007955663027671552:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007957705100800924-NC01007958801094801879" source="NC01007957705100800924" target="NC01007958801094801879">
+        <attvalues>
+          <attvalue for="2" value="NC01007957705100800924:1_NC01007958801094801879:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007959801996811322-NC01007960811490842892" source="NC01007959801996811322" target="NC01007960811490842892">
+        <attvalues>
+          <attvalue for="2" value="NC01007959801996811322:1_NC01007960811490842892:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007964875484891649-NC01007965892015906332" source="NC01007964875484891649" target="NC01007965892015906332">
+        <attvalues>
+          <attvalue for="2" value="NC01007964875484891649:1_NC01007965892015906332:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007965892015906332-NC01007966906303954480" source="NC01007965892015906332" target="NC01007966906303954480">
+        <attvalues>
+          <attvalue for="2" value="NC01007965892015906332:1_NC01007966906303954480:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC010079679547191036472-NC0100796810364951071863" source="NC010079679547191036472" target="NC0100796810364951071863">
+        <attvalues>
+          <attvalue for="2" value="NC010079679547191036472:1_NC0100796810364951071863:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100796810364951071863-NC0100796910718601072163" source="NC0100796810364951071863" target="NC0100796910718601072163">
+        <attvalues>
+          <attvalue for="2" value="NC0100796810364951071863:1_NC0100796910718601072163:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100797110982621168560-NC0100797211686041172457" source="NC0100797110982621168560" target="NC0100797211686041172457">
+        <attvalues>
+          <attvalue for="2" value="NC0100797110982621168560:1_NC0100797211686041172457:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100797613442631345778-NC0100797713457811426492" source="NC0100797613442631345778" target="NC0100797713457811426492">
+        <attvalues>
+          <attvalue for="2" value="NC0100797613442631345778:1_NC0100797713457811426492:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100797914437611456887-NC0100798014577401472992" source="NC0100797914437611456887" target="NC0100798014577401472992">
+        <attvalues>
+          <attvalue for="2" value="NC0100797914437611456887:1_NC0100798014577401472992:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798114731471558163-NC0100799116082051608433" source="NC0100798114731471558163" target="NC0100799116082051608433">
+        <attvalues>
+          <attvalue for="2" value="NC0100798114731471558163:1_NC0100799116082051608433:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798916005471602526-NC0100798815940291600417" source="NC0100798916005471602526" target="NC0100798815940291600417">
+        <attvalues>
+          <attvalue for="2" value="NC0100798916005471602526:-1_NC0100798815940291600417:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007912522479652254688-NC01007912622552722265152" source="NC01007912522479652254688" target="NC01007912622552722265152">
+        <attvalues>
+          <attvalue for="2" value="NC01007912522479652254688:1_NC01007912622552722265152:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007912722652122292093-NC01007913022978022317762" source="NC01007912722652122292093" target="NC01007913022978022317762">
+        <attvalues>
+          <attvalue for="2" value="NC01007912722652122292093:1_NC01007913022978022317762:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007913323892402431693-NC01007913424321152478335" source="NC01007913323892402431693" target="NC01007913424321152478335">
+        <attvalues>
+          <attvalue for="2" value="NC01007913323892402431693:1_NC01007913424321152478335:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007913524790662504831-NC01007913625050142539931" source="NC01007913524790662504831" target="NC01007913625050142539931">
+        <attvalues>
+          <attvalue for="2" value="NC01007913524790662504831:1_NC01007913625050142539931:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007913625050142539931-NC01007913725400302555303" source="NC01007913625050142539931" target="NC01007913725400302555303">
+        <attvalues>
+          <attvalue for="2" value="NC01007913625050142539931:1_NC01007913725400302555303:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914026102252613681-NC01007914126137792624138" source="NC01007914026102252613681" target="NC01007914126137792624138">
+        <attvalues>
+          <attvalue for="2" value="NC01007914026102252613681:1_NC01007914126137792624138:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914126137792624138-NC01007914226241382624508" source="NC01007914126137792624138" target="NC01007914226241382624508">
+        <attvalues>
+          <attvalue for="2" value="NC01007914126137792624138:1_NC01007914226241382624508:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914326249062629330-NC01007914526332852633502" source="NC01007914326249062629330" target="NC01007914526332852633502">
+        <attvalues>
+          <attvalue for="2" value="NC01007914326249062629330:1_NC01007914526332852633502:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914626335032633746-NC01007914426300862632969" source="NC01007914626335032633746" target="NC01007914426300862632969">
+        <attvalues>
+          <attvalue for="2" value="NC01007914626335032633746:1_NC01007914426300862632969:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914726338262664853-NC01007914826651092680011" source="NC01007914726338262664853" target="NC01007914826651092680011">
+        <attvalues>
+          <attvalue for="2" value="NC01007914726338262664853:1_NC01007914826651092680011:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914826651092680011-NC01007915026813982699162" source="NC01007914826651092680011" target="NC01007915026813982699162">
+        <attvalues>
+          <attvalue for="2" value="NC01007914826651092680011:1_NC01007915026813982699162:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007915126993342774915-NC01007915227752542807722" source="NC01007915126993342774915" target="NC01007915227752542807722">
+        <attvalues>
+          <attvalue for="2" value="NC01007915126993342774915:1_NC01007915227752542807722:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007915428305152866799-NC01007915528669292872915" source="NC01007915428305152866799" target="NC01007915528669292872915">
+        <attvalues>
+          <attvalue for="2" value="NC01007915428305152866799:1_NC01007915528669292872915:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007915528669292872915-NC0100791124199" source="NC01007915528669292872915" target="NC0100791124199">
+        <attvalues>
+          <attvalue for="2" value="NC01007915528669292872915:1_NC0100791124199:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007922433335846-gi161510924refNC010063181264612883" source="NC01007922433335846" target="gi161510924refNC010063181264612883">
+        <attvalues>
+          <attvalue for="2" value="NC01007922433335846:1_gi161510924refNC010063181264612883:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007933661344602-NC01007976583566255" source="NC01007933661344602" target="NC01007976583566255">
+        <attvalues>
+          <attvalue for="2" value="NC01007933661344602:1_NC01007976583566255:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007976583566255-NC01007986616767374" source="NC01007976583566255" target="NC01007986616767374">
+        <attvalues>
+          <attvalue for="2" value="NC01007976583566255:1_NC01007986616767374:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007986616767374-NC01007944475352558" source="NC01007986616767374" target="NC01007944475352558">
+        <attvalues>
+          <attvalue for="2" value="NC01007986616767374:1_NC01007944475352558:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007966235165760-NC01007996734568655" source="NC01007966235165760" target="NC01007996734568655">
+        <attvalues>
+          <attvalue for="2" value="NC01007966235165760:1_NC01007996734568655:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC010079129146597380-NC0100791397517110158" source="NC010079129146597380" target="NC0100791397517110158">
+        <attvalues>
+          <attvalue for="2" value="NC010079129146597380:1_NC0100791397517110158:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007914110273110552-NC01007915110831111033" source="NC01007914110273110552" target="NC01007915110831111033">
+        <attvalues>
+          <attvalue for="2" value="NC01007914110273110552:1_NC01007915110831111033:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007917111891112328-NC01007916111104111423" source="NC01007917111891112328" target="NC01007916111104111423">
+        <attvalues>
+          <attvalue for="2" value="NC01007917111891112328:1_NC01007916111104111423:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007916111104111423-NC01007918112487112722" source="NC01007916111104111423" target="NC01007918112487112722">
+        <attvalues>
+          <attvalue for="2" value="NC01007916111104111423:1_NC01007918112487112722:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007918112487112722-NC01007919112864169912" source="NC01007918112487112722" target="NC01007919112864169912">
+        <attvalues>
+          <attvalue for="2" value="NC01007918112487112722:1_NC01007919112864169912:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007920170616302935-NC01007921302947313015" source="NC01007920170616302935" target="NC01007921302947313015">
+        <attvalues>
+          <attvalue for="2" value="NC01007920170616302935:1_NC01007921302947313015:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007921302947313015-NC01007922313070318691" source="NC01007921302947313015" target="NC01007922313070318691">
+        <attvalues>
+          <attvalue for="2" value="NC01007921302947313015:1_NC01007922313070318691:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007927348553349398-NC01007925344824347355" source="NC01007927348553349398" target="NC01007925344824347355">
+        <attvalues>
+          <attvalue for="2" value="NC01007927348553349398:1_NC01007925344824347355:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007925344824347355-NC01007928349540351123" source="NC01007925344824347355" target="NC01007928349540351123">
+        <attvalues>
+          <attvalue for="2" value="NC01007925344824347355:1_NC01007928349540351123:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007929351561394815-NC01007930394993449333" source="NC01007929351561394815" target="NC01007930394993449333">
+        <attvalues>
+          <attvalue for="2" value="NC01007929351561394815:1_NC01007930394993449333:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007930394993449333-NC01007931449196450468" source="NC01007930394993449333" target="NC01007931449196450468">
+        <attvalues>
+          <attvalue for="2" value="NC01007930394993449333:1_NC01007931449196450468:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007931449196450468-NC01007932450693452993" source="NC01007931449196450468" target="NC01007932450693452993">
+        <attvalues>
+          <attvalue for="2" value="NC01007931449196450468:1_NC01007932450693452993:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007934457607459476-NC01007910519375041938926" source="NC01007934457607459476" target="NC01007910519375041938926">
+        <attvalues>
+          <attvalue for="2" value="NC01007934457607459476:1_NC01007910519375041938926:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007910519375041938926-NC01007935459560463634" source="NC01007910519375041938926" target="NC01007935459560463634">
+        <attvalues>
+          <attvalue for="2" value="NC01007910519375041938926:-1_NC01007935459560463634:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007935459560463634-NC01007936463697464450" source="NC01007935459560463634" target="NC01007936463697464450">
+        <attvalues>
+          <attvalue for="2" value="NC01007935459560463634:1_NC01007936463697464450:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007937464512464815-NC01007938464821466245" source="NC01007937464512464815" target="NC01007938464821466245">
+        <attvalues>
+          <attvalue for="2" value="NC01007937464512464815:1_NC01007938464821466245:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007942469627469858-NC01007940467123467784" source="NC01007942469627469858" target="NC01007940467123467784">
+        <attvalues>
+          <attvalue for="2" value="NC01007942469627469858:1_NC01007940467123467784:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007943470299471022-NC01007941467871469573" source="NC01007943470299471022" target="NC01007941467871469573">
+        <attvalues>
+          <attvalue for="2" value="NC01007943470299471022:1_NC01007941467871469573:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007944470995471237-NC01007939466279466552" source="NC01007944470995471237" target="NC01007939466279466552">
+        <attvalues>
+          <attvalue for="2" value="NC01007944470995471237:1_NC01007939466279466552:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007945471239512707-NC01007946518313518642" source="NC01007945471239512707" target="NC01007946518313518642">
+        <attvalues>
+          <attvalue for="2" value="NC01007945471239512707:1_NC01007946518313518642:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007912822927582297787-NC01007911219982782001403" source="NC01007912822927582297787" target="NC01007911219982782001403">
+        <attvalues>
+          <attvalue for="2" value="NC01007912822927582297787:-1_NC01007911219982782001403:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007911219982782001403-NC01007911119620361994265" source="NC01007911219982782001403" target="NC01007911119620361994265">
+        <attvalues>
+          <attvalue for="2" value="NC01007911219982782001403:-1_NC01007911119620361994265:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007911019564371961510-NC01007910919418001956434" source="NC01007911019564371961510" target="NC01007910919418001956434">
+        <attvalues>
+          <attvalue for="2" value="NC01007911019564371961510:-1_NC01007910919418001956434:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007910919418001956434-NC01007910819400561941272" source="NC01007910919418001956434" target="NC01007910819400561941272">
+        <attvalues>
+          <attvalue for="2" value="NC01007910919418001956434:-1_NC01007910819400561941272:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007910619391911939704-NC01007910419297101937554" source="NC01007910619391911939704" target="NC01007910419297101937554">
+        <attvalues>
+          <attvalue for="2" value="NC01007910619391911939704:-1_NC01007910419297101937554:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007913123185802318917-NC01007910019109321911247" source="NC01007913123185802318917" target="NC01007910019109321911247">
+        <attvalues>
+          <attvalue for="2" value="NC01007913123185802318917:-1_NC01007910019109321911247:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100799818934721899203-NC0100799718740211892736" source="NC0100799818934721899203" target="NC0100799718740211892736">
+        <attvalues>
+          <attvalue for="2" value="NC0100799818934721899203:-1_NC0100799718740211892736:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100799718740211892736-NC0100799618579321873596" source="NC0100799718740211892736" target="NC0100799618579321873596">
+        <attvalues>
+          <attvalue for="2" value="NC0100799718740211892736:-1_NC0100799618579321873596:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100799618579321873596-NC0100799518050461857837" source="NC0100799618579321873596" target="NC0100799518050461857837">
+        <attvalues>
+          <attvalue for="2" value="NC0100799618579321873596:-1_NC0100799518050461857837:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100799316951861803069-NC0100799216084341695051" source="NC0100799316951861803069" target="NC0100799216084341695051">
+        <attvalues>
+          <attvalue for="2" value="NC0100799316951861803069:-1_NC0100799216084341695051:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="gi225631039refNC0124171314131972-gi225631039refNC012417111792" source="gi225631039refNC0124171314131972" target="gi225631039refNC012417111792">
+        <attvalues>
+          <attvalue for="2" value="gi225631039refNC0124171314131972:1_gi225631039refNC012417111792:1"/>
+        </attvalues>
+      </edge>
+      <edge id="gi161510924refNC0100631132589827041-gi161510924refNC010063111669" source="gi161510924refNC0100631132589827041" target="gi161510924refNC010063111669">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC0100631132589827041:1_gi161510924refNC010063111669:1"/>
+        </attvalues>
+      </edge>
+      <edge id="gi161510924refNC010063111669-gi161510924refNC010063126971321" source="gi161510924refNC010063111669" target="gi161510924refNC010063126971321">
+        <attvalues>
+          <attvalue for="2" value="gi161510924refNC010063111669:1_gi161510924refNC010063126971321:1"/>
+        </attvalues>
+      </edge>
+      <edge id="gi225631039refNC0124171210521347-gi161510924refNC0100631419122260" source="gi225631039refNC0124171210521347" target="gi161510924refNC0100631419122260">
+        <attvalues>
+          <attvalue for="2" value="gi225631039refNC0124171210521347:1_gi161510924refNC0100631419122260:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798215585021558958-NC0100798315589291562537" source="NC0100798215585021558958" target="NC0100798315589291562537">
+        <attvalues>
+          <attvalue for="2" value="NC0100798215585021558958:1_NC0100798315589291562537:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798315589291562537-NC0100798415625381586137" source="NC0100798315589291562537" target="NC0100798415625381586137">
+        <attvalues>
+          <attvalue for="2" value="NC0100798315589291562537:1_NC0100798415625381586137:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798515860941592190-NC0100798615921211593081" source="NC0100798515860941592190" target="NC0100798615921211593081">
+        <attvalues>
+          <attvalue for="2" value="NC0100798515860941592190:1_NC0100798615921211593081:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC0100798615921211593081-NC01007911921118122112036" source="NC0100798615921211593081" target="NC01007911921118122112036">
+        <attvalues>
+          <attvalue for="2" value="NC0100798615921211593081:1_NC01007911921118122112036:1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007912021121332114005-NC01007911820881622111655" source="NC01007912021121332114005" target="NC01007911820881622111655">
+        <attvalues>
+          <attvalue for="2" value="NC01007912021121332114005:-1_NC01007911820881622111655:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007911820881622111655-NC01007911720411352088150" source="NC01007911820881622111655" target="NC01007911720411352088150">
+        <attvalues>
+          <attvalue for="2" value="NC01007911820881622111655:-1_NC01007911720411352088150:-1"/>
+        </attvalues>
+      </edge>
+      <edge id="NC01007911520302412031591-NC01007911420034952030151" source="NC01007911520302412031591" target="NC01007911420034952030151">
+        <attvalues>
+          <attvalue for="2" value="NC01007911520302412031591:-1_NC01007911420034952030151:-1"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

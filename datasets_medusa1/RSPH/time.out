@@ -1,0 +1,52 @@
+[06-04 10:35:58] INFO     [92mPhase 0: checking the inputs...
+[0m
+[06-04 10:35:58] INFO     Working directory is [/home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT]...
+[06-04 10:35:58] INFO     [92mInput files found[0m
+[06-04 10:35:58] INFO     Mummer output files will be written in [/home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT]
+
+[06-04 10:35:58] INFO     [92mPhase 1: mapping contigs to reference genome(s)
+[0m
+[06-04 10:35:58] INFO     A total of 2 reference genomes have been found! Mapping the contigs...
+
+
+
+ /$$      /$$               /$$                            /$$$$$$ 
+| $$$    /$$$              | $$                           /$$__  $$
+| $$$$  /$$$$ /$$$$$$  /$$$$$$$/$$   /$$ /$$$$$$$ /$$$$$$|__/  \ $$
+| $$ $$/$$ $$/$$__  $$/$$__  $| $$  | $$/$$_____/|____  $$ /$$$$$$/
+| $$  $$$| $| $$$$$$$| $$  | $| $$  | $|  $$$$$$  /$$$$$$$/$$____/ 
+| $$\  $ | $| $$_____| $$  | $| $$  | $$\____  $$/$$__  $| $$      
+| $$ \/  | $|  $$$$$$|  $$$$$$|  $$$$$$//$$$$$$$|  $$$$$$| $$$$$$$$
+|__/     |__/\_______/\_______/\______/|_______/ \_______|________/
+                                                                   
+
+
+[06-04 10:35:58] INFO     File number 1: /home/eb/projects/medusa2/datasets_medusa1/RSPH/reference_genomes/Rhodobacter_SW2_uid40865.fna.inp
+[06-04 10:35:58] INFO     running nucmer...
+[06-04 10:36:02] INFO     running show-coords...
+
+[06-04 10:36:02] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/RSPH/reference_genomes/Rhodobacter_SW2_uid40865.fna.inp!
+[06-04 10:36:02] INFO     File number 2: /home/eb/projects/medusa2/datasets_medusa1/RSPH/reference_genomes/Rhodobacter_sphaeroides_WS8N.fna.inp
+[06-04 10:36:02] INFO     running nucmer...
+[06-04 10:36:32] INFO     running show-coords...
+
+[06-04 10:36:32] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/RSPH/reference_genomes/Rhodobacter_sphaeroides_WS8N.fna.inp!
+[06-04 10:36:32] INFO     [92mPhase 2: parse mummer output(s) and create a scaffolding graph[0m
+[06-04 10:36:32] WARNING  [33mThis step is very time-consuming...[0m
+[06-04 10:36:32] INFO     Instanciating scaffolding network for [/home/eb/projects/medusa2/datasets_medusa1/RSPH/Rhodobacter_target.fna] ...
+[06-04 10:36:32] INFO     [92mSuccess! A total of 564 nodes have been included[0m
+[06-04 10:36:32] INFO     A total of 2 .coords files have been found! Adding network edges...
+
+[06-04 10:36:32] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT/Rhodobacter_target_Rhodobacter_SW2_uid40865.coords[0m
+[06-04 10:36:32] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT/Rhodobacter_target_Rhodobacter_sphaeroides_WS8N.coords[0m
+[06-04 10:36:32] INFO     adjusting orientations...
+[06-04 10:36:32] INFO     [92mPhase 3: from network to scaffolds
+[0m
+[06-04 10:36:32] INFO     [92mComputing a greedy path cover...[0m
+
+[06-04 10:36:32] INFO     [92mOptional: producing output graphs[0m
+[06-04 10:36:32] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT/scaffolding_graph.gexf
+[06-04 10:36:33] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT/cover_graph.gexf
+[06-04 10:36:33] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/RSPH/medusa_2_OUT/cleaned_cover_graph.gexf
+50.55user 0.87system 0:36.20elapsed 142%CPU (0avgtext+0avgdata 236260maxresident)k
+8inputs+36816outputs (0major+166841minor)pagefaults 0swaps

@@ -1,0 +1,10 @@
+Target genome: datasets_medusa1/ECOL/E.Coli_target.fna
+
+--------------SCAFFOLDS---------------
+
+Number of scaffolds: 9 (singletons = 3, multi-contig scaffold = 6) 
+from 451 initial fragments.
+Total length of the jointed fragments: 4442534
+Computing N50 on 9 sequences.
+N50: 2398041.0
+----------------------

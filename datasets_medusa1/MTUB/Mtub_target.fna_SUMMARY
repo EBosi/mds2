@@ -1,0 +1,10 @@
+Target genome: datasets_medusa1/MTUB/Mtub_target.fna
+
+--------------SCAFFOLDS---------------
+
+Number of scaffolds: 1 (singletons = 0, multi-contig scaffold = 1) 
+from 116 initial fragments.
+Total length of the jointed fragments: 4338452
+Computing N50 on 1 sequences.
+N50: 4343752.0
+----------------------

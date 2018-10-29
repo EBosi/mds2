@@ -1,0 +1,10 @@
+Target genome: datasets_medusa1/BCEN/Burkholderia_target.fna
+
+--------------SCAFFOLDS---------------
+
+Number of scaffolds: 29 (singletons = 5, multi-contig scaffold = 24) 
+from 1223 initial fragments.
+Total length of the jointed fragments: 7038882
+Computing N50 on 29 sequences.
+N50: 947356.0
+----------------------

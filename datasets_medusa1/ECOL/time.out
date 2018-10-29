@@ -1,0 +1,184 @@
+[06-04 10:36:34] INFO     [92mPhase 0: checking the inputs...
+[0m
+[06-04 10:36:34] INFO     Working directory is [/home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT]...
+[06-04 10:36:34] INFO     [92mInput files found[0m
+[06-04 10:36:34] INFO     Mummer output files will be written in [/home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT]
+
+[06-04 10:36:34] INFO     [92mPhase 1: mapping contigs to reference genome(s)
+[0m
+[06-04 10:36:34] INFO     A total of 24 reference genomes have been found! Mapping the contigs...
+
+
+
+ /$$      /$$               /$$                            /$$$$$$ 
+| $$$    /$$$              | $$                           /$$__  $$
+| $$$$  /$$$$ /$$$$$$  /$$$$$$$/$$   /$$ /$$$$$$$ /$$$$$$|__/  \ $$
+| $$ $$/$$ $$/$$__  $$/$$__  $| $$  | $$/$$_____/|____  $$ /$$$$$$/
+| $$  $$$| $| $$$$$$$| $$  | $| $$  | $|  $$$$$$  /$$$$$$$/$$____/ 
+| $$\  $ | $| $$_____| $$  | $| $$  | $$\____  $$/$$__  $| $$      
+| $$ \/  | $|  $$$$$$|  $$$$$$|  $$$$$$//$$$$$$$|  $$$$$$| $$$$$$$$
+|__/     |__/\_______/\_______/\______/|_______/ \_______|________/
+                                                                   
+
+
+[06-04 10:36:34] INFO     File number 1: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_W_uid162011.fna.inp
+[06-04 10:36:34] INFO     running nucmer...
+[06-04 10:37:11] INFO     running show-coords...
+
+[06-04 10:37:11] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_W_uid162011.fna.inp!
+[06-04 10:37:11] INFO     File number 2: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_IAI1_uid59377.fna.inp
+[06-04 10:37:11] INFO     running nucmer...
+[06-04 10:37:47] INFO     running show-coords...
+
+[06-04 10:37:47] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_IAI1_uid59377.fna.inp!
+[06-04 10:37:47] INFO     File number 3: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_KO11FL_uid162099.fna.inp
+[06-04 10:37:47] INFO     running nucmer...
+[06-04 10:38:24] INFO     running show-coords...
+
+[06-04 10:38:24] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_KO11FL_uid162099.fna.inp!
+[06-04 10:38:24] INFO     File number 4: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_LY180_uid219461.fna.inp
+[06-04 10:38:24] INFO     running nucmer...
+[06-04 10:39:01] INFO     running show-coords...
+
+[06-04 10:39:01] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_LY180_uid219461.fna.inp!
+[06-04 10:39:01] INFO     File number 5: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_UTI89_uid58541.fna.inp
+[06-04 10:39:01] INFO     running nucmer...
+[06-04 10:39:42] INFO     running show-coords...
+
+[06-04 10:39:42] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_UTI89_uid58541.fna.inp!
+[06-04 10:39:42] INFO     File number 6: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_ABU_83972_uid161975.fna.inp
+[06-04 10:39:42] INFO     running nucmer...
+[06-04 10:40:25] INFO     running show-coords...
+
+[06-04 10:40:25] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_ABU_83972_uid161975.fna.inp!
+[06-04 10:40:25] INFO     File number 7: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O157_H7_Sakai_uid57781.fna.inp
+[06-04 10:40:25] INFO     running nucmer...
+[06-04 10:41:09] INFO     running show-coords...
+
+[06-04 10:41:09] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O157_H7_Sakai_uid57781.fna.inp!
+[06-04 10:41:09] INFO     File number 8: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_NA114_uid162139.fna.inp
+[06-04 10:41:09] INFO     running nucmer...
+[06-04 10:41:50] INFO     running show-coords...
+
+[06-04 10:41:50] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_NA114_uid162139.fna.inp!
+[06-04 10:41:50] INFO     File number 9: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_K_12_substr__MG1655_uid57779.fna.inp
+[06-04 10:41:50] INFO     running nucmer...
+[06-04 10:42:26] INFO     running show-coords...
+
+[06-04 10:42:26] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_K_12_substr__MG1655_uid57779.fna.inp!
+[06-04 10:42:26] INFO     File number 10: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_B_REL606_uid58803.fna.inp
+[06-04 10:42:26] INFO     running nucmer...
+[06-04 10:43:02] INFO     running show-coords...
+
+[06-04 10:43:02] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_B_REL606_uid58803.fna.inp!
+[06-04 10:43:02] INFO     File number 11: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_HS_uid58393.fna.inp
+[06-04 10:43:02] INFO     running nucmer...
+[06-04 10:43:40] INFO     running show-coords...
+
+[06-04 10:43:40] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_HS_uid58393.fna.inp!
+[06-04 10:43:40] INFO     File number 12: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_PMV_1_uid219679.fna.inp
+[06-04 10:43:40] INFO     running nucmer...
+[06-04 10:44:20] INFO     running show-coords...
+
+[06-04 10:44:20] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_PMV_1_uid219679.fna.inp!
+[06-04 10:44:20] INFO     File number 13: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_APEC_O78_uid187277.fna.inp
+[06-04 10:44:20] INFO     running nucmer...
+[06-04 10:44:57] INFO     running show-coords...
+
+[06-04 10:44:57] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_APEC_O78_uid187277.fna.inp!
+[06-04 10:44:57] INFO     File number 14: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_DH1_uid161951.fna.inp
+[06-04 10:44:57] INFO     running nucmer...
+[06-04 10:45:31] INFO     running show-coords...
+
+[06-04 10:45:31] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_DH1_uid161951.fna.inp!
+[06-04 10:45:31] INFO     File number 15: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O104_H4_2009EL_2050_uid175905.fna.inp
+[06-04 10:45:31] INFO     running nucmer...
+[06-04 10:46:10] INFO     running show-coords...
+
+[06-04 10:46:10] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O104_H4_2009EL_2050_uid175905.fna.inp!
+[06-04 10:46:10] INFO     File number 16: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_SE11_uid59425.fna.inp
+[06-04 10:46:10] INFO     running nucmer...
+[06-04 10:46:47] INFO     running show-coords...
+
+[06-04 10:46:47] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_SE11_uid59425.fna.inp!
+[06-04 10:46:47] INFO     File number 17: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_SMS_3_5_uid58919.fna.inp
+[06-04 10:46:47] INFO     running nucmer...
+[06-04 10:47:26] INFO     running show-coords...
+
+[06-04 10:47:26] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_SMS_3_5_uid58919.fna.inp!
+[06-04 10:47:26] INFO     File number 18: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_E24377A_uid58395.fna.inp
+[06-04 10:47:26] INFO     running nucmer...
+[06-04 10:48:05] INFO     running show-coords...
+
+[06-04 10:48:05] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_E24377A_uid58395.fna.inp!
+[06-04 10:48:05] INFO     File number 19: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O111_H__11128_uid41023.fna.inp
+[06-04 10:48:05] INFO     running nucmer...
+[06-04 10:48:46] INFO     running show-coords...
+
+[06-04 10:48:46] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O111_H__11128_uid41023.fna.inp!
+[06-04 10:48:46] INFO     File number 20: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_IHE3034_uid162007.fna.inp
+[06-04 10:48:46] INFO     running nucmer...
+[06-04 10:49:28] INFO     running show-coords...
+
+[06-04 10:49:28] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_IHE3034_uid162007.fna.inp!
+[06-04 10:49:28] INFO     File number 21: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O127_H6_E2348_69_uid59343.fna.inp
+[06-04 10:49:28] INFO     running nucmer...
+[06-04 10:50:09] INFO     running show-coords...
+
+[06-04 10:50:09] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_O127_H6_E2348_69_uid59343.fna.inp!
+[06-04 10:50:09] INFO     File number 22: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_BL21_DE3__uid161947.fna.inp
+[06-04 10:50:09] INFO     running nucmer...
+[06-04 10:50:44] INFO     running show-coords...
+
+[06-04 10:50:44] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_BL21_DE3__uid161947.fna.inp!
+[06-04 10:50:44] INFO     File number 23: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_P12b_uid162061.fna.inp
+[06-04 10:50:44] INFO     running nucmer...
+[06-04 10:51:28] INFO     running show-coords...
+
+[06-04 10:51:28] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_P12b_uid162061.fna.inp!
+[06-04 10:51:28] INFO     File number 24: /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_JJ1886_uid226103.fna.inp
+[06-04 10:51:28] INFO     running nucmer...
+[06-04 10:52:16] INFO     running show-coords...
+
+[06-04 10:52:16] INFO     Success for /home/eb/projects/medusa2/datasets_medusa1/ECOL/reference_genomes/Escherichia_coli_JJ1886_uid226103.fna.inp!
+[06-04 10:52:16] INFO     [92mPhase 2: parse mummer output(s) and create a scaffolding graph[0m
+[06-04 10:52:16] WARNING  [33mThis step is very time-consuming...[0m
+[06-04 10:52:17] INFO     Instanciating scaffolding network for [/home/eb/projects/medusa2/datasets_medusa1/ECOL/E.Coli_target.fna] ...
+[06-04 10:52:17] INFO     [92mSuccess! A total of 451 nodes have been included[0m
+[06-04 10:52:17] INFO     A total of 24 .coords files have been found! Adding network edges...
+
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_W_uid162011.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_IAI1_uid59377.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_KO11FL_uid162099.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_LY180_uid219461.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_UTI89_uid58541.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_ABU_83972_uid161975.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_O157_H7_Sakai_uid57781.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_NA114_uid162139.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_K_12_substr__MG1655_uid57779.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_B_REL606_uid58803.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_HS_uid58393.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_PMV_1_uid219679.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_APEC_O78_uid187277.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_DH1_uid161951.coords[0m
+[06-04 10:52:17] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_O104_H4_2009EL_2050_uid175905.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_SE11_uid59425.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_SMS_3_5_uid58919.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_E24377A_uid58395.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_O111_H__11128_uid41023.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_IHE3034_uid162007.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_O127_H6_E2348_69_uid59343.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_BL21_DE3__uid161947.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_P12b_uid162061.coords[0m
+[06-04 10:52:18] INFO     [92mparsing /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/E_Escherichia_coli_JJ1886_uid226103.coords[0m
+[06-04 10:52:18] INFO     adjusting orientations...
+[06-04 10:52:18] INFO     [92mPhase 3: from network to scaffolds
+[0m
+[06-04 10:52:18] INFO     [92mComputing a greedy path cover...[0m
+
+[06-04 10:52:19] INFO     [92mOptional: producing output graphs[0m
+[06-04 10:52:19] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/scaffolding_graph.gexf
+[06-04 10:52:20] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/cover_graph.gexf
+[06-04 10:52:20] INFO     writing graph /home/eb/projects/medusa2/datasets_medusa1/ECOL/medusa_2_OUT/cleaned_cover_graph.gexf
+952.17user 6.35system 15:47.03elapsed 101%CPU (0avgtext+0avgdata 184616maxresident)k
+209672inputs+45472outputs (8major+3017633minor)pagefaults 0swaps
